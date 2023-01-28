@@ -7,6 +7,7 @@
 - Vite.JS
 - TailwindCSS
 - Vitest
+- Testing Library
 - Husky
 - EsLint
 - Airbnb Config

@@ -47,6 +47,11 @@ function App() {
           Vitest
         </a>{' '}
         +
+        <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
+          {' '}
+          Testing Library
+        </a>{' '}
+        +
         <a
           href="https://typicode.github.io/husky/#/"
           target="_blank"
