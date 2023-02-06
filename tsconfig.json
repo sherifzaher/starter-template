@@ -16,6 +16,10 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "rootDir": "./src"
+    // "paths": {
+    //   "@/UI/*": ["./src/Components/UI/*"],
+    //   "@/Other/*": ["./src/Components/Other/*"]
+    // }
   },
   "include": ["src", ".eslintrc.cjs", "vite.config.ts", "tailwind.config.cjs"],
   "references": [{ "path": "./tsconfig.node.json" }]

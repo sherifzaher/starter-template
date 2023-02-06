@@ -27,4 +27,16 @@ module.exports = {
     'no-shadow': 'off',
     'tailwindcss/no-custom-classname': 0,
   },
+  // settings: {
+  //   'import/resolver': {
+  //     typescript: {},
+  //     alias: {
+  //       extensions: ['.ts', '.tsx', '.js', '.jsx'],
+  //       map: [
+  //         ['@/UI', './src/Components/UI/*'],
+  //         ['@/Other', './src/components/Other/*'],
+  //       ],
+  //     },
+  //   },
+  // },
 };
